@@ -1,0 +1,27 @@
+{
+    "name": "gustavocabreira/huggy-php-sdk",
+    "description": "A PHP SDK for the Huggy API",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Gustavocabreira\\HuggySDK\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gustavo Cabreira",
+            "email": "gustavo.softdev@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "require-dev": {
+    },
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}
