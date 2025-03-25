@@ -14,8 +14,7 @@
         }
     ],
     "require": {
-    },
-    "require-dev": {
+        "guzzlehttp/guzzle": "8.0.x-dev"
     },
     "minimum-stability": "dev",
     "license": "MIT",
